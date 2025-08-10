@@ -32,4 +32,5 @@ while calculate:
 
     result = operators[operator](num1, num2)
     print(f"{num1} {operator} {num2} = {result}")
+
     num1=result
